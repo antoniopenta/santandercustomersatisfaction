@@ -2,3 +2,6 @@ data/*
 *.txt
 *.log
 .ipynb_checkpoints*/
+__pycache__*
+__pycache__/*
+external_code/*
