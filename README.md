@@ -3,7 +3,7 @@ Solution for the Kaggle competition https://www.kaggle.com/c/santander-customer-
 
 Project Structure
 
-The solutions of the problem is described in the following notebooks (main folder):
+The solutions of the problem are described in the following notebooks (main folder):
 
 DataExploration.ipynb : Notebook used to explore the data, to get a fist understanding of the features in order to select a data science strategy for further analysis.
 
