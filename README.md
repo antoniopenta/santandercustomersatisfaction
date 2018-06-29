@@ -17,5 +17,6 @@ NumericFeatureAnalysis.ipynb: Notebook used to clean and normalize the no binary
 
 CustomerSatisfactionClassification.ipynb: Notebook used to classify happy and unhappy customers
 
+CustomerSatisfactionSantanderKaggle.pdf, Presentation of the results
 
 In the submission folder there are scripts to test the results using the test set, the script run_strategy_15.py has obtained Private Score 0.802821 	Public Score 0.815378.
